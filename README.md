@@ -2,5 +2,5 @@
 
 Alumno: Gonzalo Purita
 
-Curso: K2002
+Curso: K2002  
 Profesor: Eduardo Zuñiga
